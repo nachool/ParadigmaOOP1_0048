@@ -1,1 +1,1 @@
-#pragma once
+#ifndef MANUSIA_H
